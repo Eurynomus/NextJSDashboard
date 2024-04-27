@@ -27,7 +27,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "app/dashboard/components/search.jsx", "app/dashboard/components/recent-sales.jsx", "app/dashboard/components/overview.jsx", "app/dashboard/components/main-nav.jsx", "app/dashboard/components/date-range-picker.jsx", "app/dashboard/components/user-nav.jsx"  ],
   "exclude": [
     "node_modules"
   ]
